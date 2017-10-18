@@ -1,0 +1,19 @@
+div {
+  width: 50vh;
+  height: 30vh;
+  display: inline-block;
+  margin: 4vh;
+}
+
+.block_yellow {
+  background-color: #F7B617;
+  color: black;
+}
+.block_gray {
+  background-color: #2B2B2B;
+  color: white;
+}
+.block_yellow1{
+  background-color: #F7B617;
+  color: black;
+}
